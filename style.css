@@ -1,0 +1,87 @@
+body{
+    
+    font-family: 'Poppins', sans-serif;
+    padding: 0px;
+}
+#Hello{
+    color: darkblue;
+    font-size: 50px;
+    font-weight: 600;
+}
+#alamin{
+    color: darkorange;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+     
+}
+
+.half-width img{
+    width: 77%;
+    margin-top: -1%;
+}
+.scond-section{
+    height: 500px;
+    background-color:  ;
+}
+.link-section{
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(45deg, rgb(226, 88, 34), rgb(173, 44, 21));
+}
+
+.third-section{
+    height: 500px;
+    background-color:  ;
+}
+#margin{
+    margin-top: 1%;
+    text-align: justify;
+}
+.fourth-section{
+    height: 600px;
+    background-color: rgb(182, 175, 175);
+}
+.fourth-top{
+    height: 200px;
+    ;
+}
+.fourth-down{
+    height: 300px;
+     
+}
+.fourth-text{
+    text-align: center;
+    padding-top: 8%;
+    padding-bottom: 5%;
+    font-size: 40px;
+}
+#fourth-color-lastet{
+    color: red;
+}
+#fourth-color-working{
+    color: rgb(24, 24, 80);
+}
+
+.fourth-down-one{
+    width: 25%;
+    float: left;
+    margin: 0px 10px;
+    padding: 86px 22px;
+}
+.fourth-down-one img{
+    width: 100%;
+    margin-top: -12%;
+}
+#fourth-down-margin{
+    margin-left: 5.5%;
+}
